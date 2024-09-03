@@ -28,10 +28,3 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory: `cd rock-paper-scissors`
 3. Open the `index.html` file in your browser to start the game.
 
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
